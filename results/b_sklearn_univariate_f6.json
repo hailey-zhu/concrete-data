@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f6",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    63.59263087693312,
+    -0.027384298984679437
+  ],
+  "train_mse": 272.5119659569891,
+  "test_mse": 275.580382209105,
+  "train_r2": 0.0162696049004859,
+  "test_r2": -0.23158396843074014,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Coarse Aggregate  (component 6)(kg in a m^3 mixture)"
+  ]
+}

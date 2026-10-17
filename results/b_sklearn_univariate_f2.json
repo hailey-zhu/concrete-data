@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f2",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    34.521924539946,
+    0.03159896339709508
+  ],
+  "train_mse": 269.9688108229463,
+  "test_mse": 310.1978772470065,
+  "train_r2": 0.02545004215587665,
+  "test_r2": -0.38629146819594506,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Blast Furnace Slag (component 2)(kg in a m^3 mixture)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f7",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    60.5445659783532,
+    -0.03057980712367893
+  ],
+  "train_mse": 270.7523634671115,
+  "test_mse": 282.82327580477687,
+  "train_r2": 0.022621525802405618,
+  "test_r2": -0.26395286046134436,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Fine Aggregate (component 7)(kg in a m^3 mixture)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_gd_univariate_f3",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": 0.0001,
+  "n_iters": 5000,
+  "theta": [
+    17.060144534252693,
+    0.12400223087712063
+  ],
+  "train_mse": 557.6810875419633,
+  "test_mse": 216.83028040900086,
+  "train_r2": -1.0131513662551233,
+  "test_r2": 0.030973485552976743,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "gd",
+  "features": [
+    "Fly Ash (component 3)(kg in a m^3 mixture)"
+  ]
+}

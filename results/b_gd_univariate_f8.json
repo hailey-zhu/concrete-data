@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_gd_univariate_f8",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": 0.0001,
+  "n_iters": 5000,
+  "theta": [
+    15.370917091552187,
+    0.22978669895160345
+  ],
+  "train_mse": 431.46110744926574,
+  "test_mse": 412.40875611238516,
+  "train_r2": -0.5575147469602497,
+  "test_r2": -0.8430775383825395,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "gd",
+  "features": [
+    "Age (day)"
+  ]
+}

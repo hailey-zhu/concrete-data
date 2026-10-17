@@ -1,0 +1,10 @@
+name,ols_raw,ols_standardized_recovered
+Intercept,-51.60165978572431,-51.60165978572424
+Cement (component 1)(kg in a m^3 mixture),0.1324582522382957,0.13245825223829558
+Blast Furnace Slag (component 2)(kg in a m^3 mixture),0.12474199062172127,0.1247419906217211
+Fly Ash (component 3)(kg in a m^3 mixture),0.10613089684700963,0.10613089684700953
+Water  (component 4)(kg in a m^3 mixture),-0.13371570533416985,-0.13371570533416974
+Superplasticizer (component 5)(kg in a m^3 mixture),0.11891826620430018,0.1189182662043
+Coarse Aggregate  (component 6)(kg in a m^3 mixture),0.028609324670195443,0.028609324670195373
+Fine Aggregate (component 7)(kg in a m^3 mixture),0.03386952482767756,0.033869524827677494
+Age (day),0.11880440762545849,0.11880440762545845

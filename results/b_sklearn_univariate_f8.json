@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f8",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    32.54312013004814,
+    0.09520781570841397
+  ],
+  "train_mse": 242.97441790017598,
+  "test_mse": 299.2416117181095,
+  "train_r2": 0.12289605602955589,
+  "test_r2": -0.3373273116362767,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Age (day)"
+  ]
+}

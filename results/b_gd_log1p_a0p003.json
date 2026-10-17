@@ -1,0 +1,36 @@
+{
+  "exp_id": "b_gd_log1p_a0p003",
+  "owner": "B",
+  "transform": "log1p",
+  "scaling": "none",
+  "alpha": 0.003,
+  "n_iters": 5000,
+  "theta": [
+    -0.7181989146409566,
+    20.94066914005045,
+    1.7535274936642133,
+    -0.4672885895019702,
+    -12.166222722973854,
+    4.409303531764717,
+    -2.195289649657597,
+    -5.945083894738035,
+    8.68580995783823
+  ],
+  "train_mse": 63.21185168812489,
+  "test_mse": 50.27139582941925,
+  "train_r2": 0.771813983955679,
+  "test_r2": 0.7753343518945771,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "gd",
+  "features": [
+    "Cement (component 1)(kg in a m^3 mixture)",
+    "Blast Furnace Slag (component 2)(kg in a m^3 mixture)",
+    "Fly Ash (component 3)(kg in a m^3 mixture)",
+    "Water  (component 4)(kg in a m^3 mixture)",
+    "Superplasticizer (component 5)(kg in a m^3 mixture)",
+    "Coarse Aggregate  (component 6)(kg in a m^3 mixture)",
+    "Fine Aggregate (component 7)(kg in a m^3 mixture)",
+    "Age (day)"
+  ]
+}

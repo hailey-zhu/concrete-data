@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f5",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    30.83054558072503,
+    0.8881220119049312
+  ],
+  "train_mse": 248.82345443591433,
+  "test_mse": 197.7370119773751,
+  "train_r2": 0.10178184549554392,
+  "test_r2": 0.11630235808314238,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Superplasticizer (component 5)(kg in a m^3 mixture)"
+  ]
+}

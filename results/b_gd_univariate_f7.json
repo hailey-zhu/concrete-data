@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_gd_univariate_f7",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": 1e-06,
+  "n_iters": 5000,
+  "theta": [
+    0.006786087753917729,
+    0.04693283572023016
+  ],
+  "train_mse": 311.4677810988526,
+  "test_mse": 333.1736742392978,
+  "train_r2": -0.12435548393314488,
+  "test_r2": -0.48897157557802373,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "gd",
+  "features": [
+    "Fine Aggregate (component 7)(kg in a m^3 mixture)"
+  ]
+}

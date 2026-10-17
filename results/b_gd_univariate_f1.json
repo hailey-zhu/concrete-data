@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_gd_univariate_f1",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": 1e-05,
+  "n_iters": 5000,
+  "theta": [
+    0.18299034985215762,
+    0.1257049959878622
+  ],
+  "train_mse": 229.711759595856,
+  "test_mse": 255.83443173095708,
+  "train_r2": 0.17077241275378774,
+  "test_r2": -0.14333822373958993,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "gd",
+  "features": [
+    "Cement (component 1)(kg in a m^3 mixture)"
+  ]
+}

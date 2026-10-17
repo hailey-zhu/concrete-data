@@ -1,0 +1,10 @@
+name,coefficient
+Intercept,-51.55783428528712
+Cement (component 1)(kg in a m^3 mixture),0.13244420364935333
+Blast Furnace Slag (component 2)(kg in a m^3 mixture),0.1247250383699515
+Fly Ash (component 3)(kg in a m^3 mixture),0.10611065625862681
+Water  (component 4)(kg in a m^3 mixture),-0.13377298626011566
+Superplasticizer (component 5)(kg in a m^3 mixture),0.11889412760000166
+Coarse Aggregate  (component 6)(kg in a m^3 mixture),0.028595019311340456
+Fine Aggregate (component 7)(kg in a m^3 mixture),0.03385268591089452
+Age (day),0.11880402362433944

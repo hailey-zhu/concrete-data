@@ -1,0 +1,9 @@
+﻿Feature,Experiment,Learning rate,Converged at,Training R²,Testing R²
+Cement (component 1)(kg in a m^3 mixture),b_gd_univariate_f1,1e-05,,0.17077241275378774,-0.14333822373958993
+Superplasticizer (component 5)(kg in a m^3 mixture),b_gd_univariate_f5,0.001,,0.10150680623973962,0.13515885757154666
+Coarse Aggregate  (component 6)(kg in a m^3 mixture),b_gd_univariate_f6,1e-06,,-0.07566620215866693,-0.5385029679195696
+Fine Aggregate (component 7)(kg in a m^3 mixture),b_gd_univariate_f7,1e-06,,-0.12435548393314488,-0.48897157557802373
+Water  (component 4)(kg in a m^3 mixture),b_gd_univariate_f4,3e-05,,-0.21891776180385336,-0.4835746085560513
+Age (day),b_gd_univariate_f8,0.0001,,-0.5575147469602497,-0.8430775383825395
+Fly Ash (component 3)(kg in a m^3 mixture),b_gd_univariate_f3,0.0001,,-1.0131513662551233,0.030973485552976743
+Blast Furnace Slag (component 2)(kg in a m^3 mixture),b_gd_univariate_f2,3e-05,,-1.6741163385563604,-2.622926824935287

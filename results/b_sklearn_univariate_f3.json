@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f3",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    39.99118274491728,
+    -0.05340416472232434
+  ],
+  "train_mse": 265.25486679691346,
+  "test_mse": 382.4972312765282,
+  "train_r2": 0.04246672618632463,
+  "test_r2": -0.7094012797031137,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Fly Ash (component 3)(kg in a m^3 mixture)"
+  ]
+}

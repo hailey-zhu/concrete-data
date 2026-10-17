@@ -1,0 +1,46 @@
+{
+  "exp_id": "c_ols_log1p",
+  "owner": "C",
+  "transform": "log1p",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    81.11163318555973,
+    23.611862220366422,
+    2.3025137956355364,
+    0.19547013302119204,
+    -38.332155001430664,
+    1.8770646899728483,
+    4.188845816077075,
+    -6.655350641870035,
+    9.034468090311854
+  ],
+  "train_mse": 55.82996186163586,
+  "test_mse": 54.361411547306865,
+  "train_r2": 0.7984615822367,
+  "test_r2": 0.7570558454624392,
+  "converged_iter": null,
+  "p_value": [
+    0.28588240598813996,
+    1.1004820413322944e-85,
+    7.344728500377729e-36,
+    0.29486760405644374,
+    1.680103600691088e-20,
+    8.082550508125578e-06,
+    0.40541706986345966,
+    0.08874613009758572,
+    1.7373688232437685e-192
+  ],
+  "solver": "statsmodels",
+  "features": [
+    "Cement (component 1)(kg in a m^3 mixture)",
+    "Blast Furnace Slag (component 2)(kg in a m^3 mixture)",
+    "Fly Ash (component 3)(kg in a m^3 mixture)",
+    "Water  (component 4)(kg in a m^3 mixture)",
+    "Superplasticizer (component 5)(kg in a m^3 mixture)",
+    "Coarse Aggregate  (component 6)(kg in a m^3 mixture)",
+    "Fine Aggregate (component 7)(kg in a m^3 mixture)",
+    "Age (day)"
+  ]
+}

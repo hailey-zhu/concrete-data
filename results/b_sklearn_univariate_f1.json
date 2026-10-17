@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f1",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    14.479345326872103,
+    0.08078464251894318
+  ],
+  "train_mse": 203.77260739184143,
+  "test_mse": 265.93979183257,
+  "train_r2": 0.2644091540124416,
+  "test_r2": -0.18849963688736127,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Cement (component 1)(kg in a m^3 mixture)"
+  ]
+}

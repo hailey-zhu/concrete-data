@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_gd_univariate_f4",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": 3e-05,
+  "n_iters": 5000,
+  "theta": [
+    0.33377209167484856,
+    0.19636490838504767
+  ],
+  "train_mse": 337.6633244878632,
+  "test_mse": 331.9660438439621,
+  "train_r2": -0.21891776180385336,
+  "test_r2": -0.4835746085560513,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "gd",
+  "features": [
+    "Water  (component 4)(kg in a m^3 mixture)"
+  ]
+}

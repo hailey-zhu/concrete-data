@@ -1,0 +1,9 @@
+﻿Feature,Training R²,Converged at,p-value (Untransformed multivariate)
+Cement (component 1)(kg in a m^3 mixture),0.17077241275378774,,2.461199837329534e-40
+Superplasticizer (component 5)(kg in a m^3 mixture),0.10150680623973962,,0.2362550555502662
+Coarse Aggregate  (component 6)(kg in a m^3 mixture),-0.07566620215866693,,0.005474659393759987
+Fine Aggregate (component 7)(kg in a m^3 mixture),-0.12435548393314488,,0.002941630707605083
+Water  (component 4)(kg in a m^3 mixture),-0.21891776180385336,,0.0018427341025841824
+Age (day),-0.5575147469602497,,8.526522999201738e-74
+Fly Ash (component 3)(kg in a m^3 mixture),-1.0131513662551233,,3.3181010520595987e-13
+Blast Furnace Slag (component 2)(kg in a m^3 mixture),-1.6741163385563604,,6.354749069761415e-26

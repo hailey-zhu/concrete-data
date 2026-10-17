@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_gd_univariate_f6",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": 1e-06,
+  "n_iters": 5000,
+  "theta": [
+    0.004043515929424274,
+    0.03750654918922333
+  ],
+  "train_mse": 297.9799271466988,
+  "test_mse": 344.25686497798915,
+  "train_r2": -0.07566620215866693,
+  "test_r2": -0.5385029679195696,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "gd",
+  "features": [
+    "Coarse Aggregate  (component 6)(kg in a m^3 mixture)"
+  ]
+}

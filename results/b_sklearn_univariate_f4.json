@@ -1,0 +1,22 @@
+{
+  "exp_id": "b_sklearn_univariate_f4",
+  "owner": "B",
+  "transform": "none",
+  "scaling": "none",
+  "alpha": null,
+  "n_iters": null,
+  "theta": [
+    74.34440696750994,
+    -0.20704920850090444
+  ],
+  "train_mse": 255.76906207011183,
+  "test_mse": 261.2958692925948,
+  "train_r2": 0.07670916540899786,
+  "test_r2": -0.16774569023477293,
+  "converged_iter": null,
+  "p_value": null,
+  "solver": "sklearn",
+  "features": [
+    "Water  (component 4)(kg in a m^3 mixture)"
+  ]
+}
